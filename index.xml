@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🎨 Fantasy Bits</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 🎨 Fantasy Bits</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 29 Aug 2025 22:30:32 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 29 Aug 2025 22:30:32 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;版权说明&#34;&gt;版权说明&lt;/h1&gt;&#xA;&lt;p&gt;本博客采用&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名 4.0 国际许可协议&lt;/a&gt;进行许可&lt;br&gt;&#xA;可自由转载、引用，但需署名作者且注明出处&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
